@@ -1,3 +1,5 @@
+# [deprecated] This repository has moved to https://github.com/angular-formly/angular-formly
+
 [![Build Status](https://travis-ci.org/angular-formly/angular-formly.svg)](https://travis-ci.org/angular-formly/angular-formly)
 [![Coverage Status](https://img.shields.io/coveralls/angular-formly/angular-formly.svg)](https://coveralls.io/r/angular-formly/angular-formly)
 
